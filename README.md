@@ -6,6 +6,6 @@ The purpose of this project is to practice basic web development and build a per
 2.Open the "index.html" file in any web browser.
 # Live Demo
 You can view the resume online via GitHub Pages:  
-[https://AiKhalili.github.io/digital-resume](https://AiKhalili.github.io/digital-resume)
+[https://aiKhalili.github.io/digital-resume](https://aiKhalili.github.io/digital-resume)
 # Notes
 This project was created as a class assignment for the "Introduction to Computer Industry" course.
